@@ -1,0 +1,20 @@
+00001#Indomie#9800#3100
+00002#Pucuk Harum#19900#2500
+00003#Vitacimin#1900#3000
+00004#Bebelac 3 Vanilla#500#173000
+00005#Segitiga Biru Terigu#2900#15300
+00006#UHT Ultra 200ml#12500#5800
+00007#Swallow Kamper Butir#450#38800
+00008#Kispray Perfume Gold#700#7500
+00009#Chitato 68g#12345#11900
+00010#Happytos 140g#54321#13400
+00011#Milo Choc Nugg#1515#14000
+00012#Garuda Pilus pck#51415#6800
+00013#Kusuka Singkong Kari Ayam#9910#9700
+00014#Regal Marie 120g#12321#13400
+00015#Lemonilo Cassamo Singkong#32123#8400
+00016#Beng Beng Choc Drink 10pc#13131#23500
+00017#Ceres Spread Double Hzl#33233#46800
+00018#Ceres Rice Choco Classic#22222#22800
+00019#Kraft Keju Singles 10s#11111#20500
+00020#Samyang Mala 135#99999#18900

@@ -1,0 +1,6 @@
+00001#Indomie#100#3100
+00001#Indomie#100#3100
+00002#Pucuk Harum#100#2500
+00001#Indomie#100#3100
+00002#Pucuk Harum#100#2500
+00003#Vitacimin#100#3000
